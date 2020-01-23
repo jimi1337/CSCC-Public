@@ -1,0 +1,20 @@
+C:\Users\jcrider4\source\repos\SimplePizza\SimplePizza\bin\Debug\SimplePizza.exe.config
+C:\Users\jcrider4\source\repos\SimplePizza\SimplePizza\bin\Debug\SimplePizza.exe
+C:\Users\jcrider4\source\repos\SimplePizza\SimplePizza\bin\Debug\SimplePizza.pdb
+C:\Users\jcrider4\source\repos\SimplePizza\SimplePizza\obj\Debug\SimplePizza.csprojAssemblyReference.cache
+C:\Users\jcrider4\source\repos\SimplePizza\SimplePizza\obj\Debug\SimplePizza.Form1.resources
+C:\Users\jcrider4\source\repos\SimplePizza\SimplePizza\obj\Debug\SimplePizza.Properties.Resources.resources
+C:\Users\jcrider4\source\repos\SimplePizza\SimplePizza\obj\Debug\SimplePizza.csproj.GenerateResource.cache
+C:\Users\jcrider4\source\repos\SimplePizza\SimplePizza\obj\Debug\SimplePizza.csproj.CoreCompileInputs.cache
+C:\Users\jcrider4\source\repos\SimplePizza\SimplePizza\obj\Debug\SimplePizza.exe
+C:\Users\jcrider4\source\repos\SimplePizza\SimplePizza\obj\Debug\SimplePizza.pdb
+B:\CSCI 2630\Group Projects\SimplePizza\SimplePizza\bin\Debug\SimplePizza.exe.config
+B:\CSCI 2630\Group Projects\SimplePizza\SimplePizza\bin\Debug\SimplePizza.exe
+B:\CSCI 2630\Group Projects\SimplePizza\SimplePizza\bin\Debug\SimplePizza.pdb
+B:\CSCI 2630\Group Projects\SimplePizza\SimplePizza\obj\Debug\SimplePizza.csprojAssemblyReference.cache
+B:\CSCI 2630\Group Projects\SimplePizza\SimplePizza\obj\Debug\SimplePizza.Form1.resources
+B:\CSCI 2630\Group Projects\SimplePizza\SimplePizza\obj\Debug\SimplePizza.Properties.Resources.resources
+B:\CSCI 2630\Group Projects\SimplePizza\SimplePizza\obj\Debug\SimplePizza.csproj.GenerateResource.cache
+B:\CSCI 2630\Group Projects\SimplePizza\SimplePizza\obj\Debug\SimplePizza.csproj.CoreCompileInputs.cache
+B:\CSCI 2630\Group Projects\SimplePizza\SimplePizza\obj\Debug\SimplePizza.exe
+B:\CSCI 2630\Group Projects\SimplePizza\SimplePizza\obj\Debug\SimplePizza.pdb
